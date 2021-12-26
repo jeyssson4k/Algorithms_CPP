@@ -1,21 +1,3 @@
-/*
-En una empresa local de comercialización de artículo stecnológicos solicitan crear
-un módulo de clientes para la generación de una lista de compras y un cálculo de venta 
-por unidad, respectivamente.
-
-2.El módulo de clientes debe preguntar al usuario cuántos productos desea agregar a la 
-lista de compra y posteriormente, de acuerdo con su respuesta, debe solicitar por 
-pantalla el ingreso de cada uno de los nombres de dichos productos; 
-una vez el cliente haya ingresado la totalidad de estos, el sistema debe comportarse así:
-
-Mostrar en pantalla la lista de productos ingresados por elcliente.
-Preguntar al cliente si se encuentra satisfecho con la lista realizada o 
-si desea unanueva.
-En caso de que el cliente indique que se encuentra satisfecho, 
-emitir un mensaje dedespedida.?En caso de que la respuesta del cliente sea que desea 
-generar una nueva lista, se debe preguntar cuántos productos agregar y repetir el 
-proceso antesmencionado.
-*/
 
 #include <iostream>
 using namespace std;
