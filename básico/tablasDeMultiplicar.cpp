@@ -30,7 +30,7 @@ int tablas(){
 		cout<<"tabla del 8"<<endl;
 		cout<<"tabla del 9"<<endl;
 		
-		cout<<"digite el número que desea:"<<endl;
+		cout<<"digite el nÃºmero que desea:"<<endl;
 		cin>>a;
 		
 			
